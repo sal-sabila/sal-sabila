@@ -1,6 +1,6 @@
 ![intelligent cat](https://i.pinimg.com/1200x/8a/c7/f6/8ac7f6123fda0d9c6bc21a40242dbda3.jpg)
 
-# 🌟 Hi, I'm Salsabila — Welcome to My Portfolio GitHub!
+# 🌟 Hi, I'm Salsabila — Welcome to My Little Portofolio!
 
 This GitHub account is dedicated as my professional portfolio space, a place where I showcase my projects, learning progress, and technical capabilities.  
 Akun ini saya khususkan untuk keperluan profesional, termasuk melamar pekerjaan, mengerjakan proyek, dan menunjukkan kemampuan teknis saya secara terstruktur.
